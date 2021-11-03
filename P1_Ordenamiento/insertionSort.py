@@ -14,5 +14,11 @@ def insertion_sort(array):
     return array
 
 numbers = [10, 4, 5, 8, 7, 2]
-
+numbers1 = [0,0,1,78,3,4]
+print("Primer Arreglo: ")
+print(numbers)
 print(insertion_sort(numbers))
+print("   ")
+print("Segundo Arreglo: ")
+print(numbers1)
+print(insertion_sort(numbers1))

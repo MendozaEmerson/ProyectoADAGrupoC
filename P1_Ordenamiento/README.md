@@ -16,10 +16,18 @@ Heapsort es una técnica de clasificación basada en comparación basada en una 
 
 El archivo se ejecuta haciendo uso de la sonsola y ejecutando el archivo donde esta el codigo.
 
+Captura de los casos de prueba
+
+<img src="./heap_1.png" alt="Caso Prueba 1"/>
+<img src="./heap_2.png" alt="Caso Prueba 2"/>
+
 
 # Metodo InsertionSort
 En la funcion recorremos nuestro set de datos posición por posición y comparamos el número con los valores anteriores, en caso de ser menor, lo colocamos en su posición indicada para ordenar de menor a mayor.
 
 El archivo se ejecuta haciendo uso de la sonsola y ejecutando el archivo donde esta el codigo.
 
+Captura de los casos de prueba
 
+<img src="./insert_1.png" alt="Caso Prueba 1"/>
+<img src="./insert_2.png" alt="Caso Prueba 2"/>

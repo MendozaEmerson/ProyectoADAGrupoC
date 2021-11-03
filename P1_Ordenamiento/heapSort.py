@@ -38,3 +38,10 @@ n = len(arr)
 print ("La matriz ordenada es: ")
 for i in range(n):
     print ("%d" %arr[i]),
+
+arr1 = [78,34,2,1,4]
+heapSort(arr1)
+n = len(arr1)
+print ("La matriz ordenada es: ")
+for i in range(n):
+    print ("%d" %arr1[i]),
