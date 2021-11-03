@@ -4,8 +4,8 @@ los elementos inferiores al pivote los situaremos en una sublista que hemos deno
 
 Captura de los casos de prueba
 
-<img src="/img/caso_1.png" alt="Caso Prueba 1"/>
-<img src="/img/caso_2.png" alt="Caso Prueba 2"/>
+<img src="Proyecto1_Ordenamiento/img/caso_1.png" alt="Caso Prueba 1"/>
+<img src="Proyecto1_Ordenamiento/img/caso_2.png" alt="Caso Prueba 2"/>
 
 La funcion presenta una complejidad de O(n).
 
