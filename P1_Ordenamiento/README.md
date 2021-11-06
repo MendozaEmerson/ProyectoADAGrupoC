@@ -21,6 +21,7 @@ Captura de los casos de prueba
 <img src="./heap_1.png" alt="Caso Prueba 1"/>
 <img src="./heap_2.png" alt="Caso Prueba 2"/>
 
+La funcion presenta una complejidad de O(n).
 
 # Metodo InsertionSort
 En la funcion recorremos nuestro set de datos posición por posición y comparamos el número con los valores anteriores, en caso de ser menor, lo colocamos en su posición indicada para ordenar de menor a mayor.
@@ -31,3 +32,5 @@ Captura de los casos de prueba
 
 <img src="./insert_1.png" alt="Caso Prueba 1"/>
 <img src="./insert_2.png" alt="Caso Prueba 2"/>
+
+La funcion presenta una complejidad de O(n*m).
