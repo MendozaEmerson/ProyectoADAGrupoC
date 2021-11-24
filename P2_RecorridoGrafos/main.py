@@ -7,7 +7,7 @@ import cv2
 
 # Cargar imagen y lo muestra en escala de grises
 img = cv2.imread('images/dory.jpg',0)
-cv2.imshow('imagen de dory',img)
+#cv2.imshow('imagen de dory',img)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
@@ -31,7 +31,7 @@ grafo = {'a': [('p',4), ('j',15), ('b',1)],
 			'i': [('c',20)],
 			'h': [('g',1)] 
 		}
-
+print("Recorrido por Profundidad \n")
 print(dfs(graph,"B"))
 print("\n")
 print(bfs(grafo,"d"))
